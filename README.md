@@ -12,4 +12,5 @@ Compartilho com vocês esse projeto com finalidade de estudo. Um website totalme
    <br/><br/>
    <p><b>Desktop:<b/><p/>
 
- ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/89361754/160244655-f18c9d18-dae3-4b7f-b585-4d9125a5f3d8.gif)
+ ![ezgif com-gif-maker(1)](https://user-images.githubusercontent.com/89361754/194715169-104ec5de-f2d5-4e5b-9ed2-3fc8229927a3.gif)
+
