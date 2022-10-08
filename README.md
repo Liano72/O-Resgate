@@ -7,6 +7,7 @@ Compartilho com vocês esse projeto com finalidade de estudo. Um jogo no padrão
 
    * HTML
    * CSS
+   * Javascript
    * JQuery
 
    <br/><br/>
