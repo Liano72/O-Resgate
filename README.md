@@ -1,13 +1,13 @@
-# 🏡 IMovi
+# 🎮 O Resgate
 
-Compartilho com vocês esse projeto com finalidade de estudo. Um website totalmente responsivo, visa a projeção de sites para se adaptar em qualquer tipo tela. Utilizei também o conceito de mobile first que prioriza inicialmente o desenvolvimento no formato mobile.
+Compartilho com vocês esse projeto com finalidade de estudo. Um jogo no padrão 2D, utilizando efeitos sonoros e animações criadas pelo framework JQuery.
 
 
 # 🛠️ Ferramentas utilizadas
 
    * HTML
    * CSS
-   * Jquery
+   * JQuery
 
    <br/><br/>
    <p><b>Desktop:<b/><p/>
